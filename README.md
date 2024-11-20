@@ -10,4 +10,5 @@ With a strong foundation in hardware attack methodologies, I aim to uncover pote
 
 🌟 Let’s collaborate!
 If you're interested in hardware security, cryptographic implementations, or cutting-edge attack and defense techniques, feel free to reach out. Together, we can make technology safer and more reliable.
---->
+---> Linkedin: linkedin.com/in/vahid-soleimani-hesari
+---> Email: vahidsoleimani.tc@gmail.com
