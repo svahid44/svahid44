@@ -1,5 +1,5 @@
 👋 Hi there! I'm Vahid Soleimani Hesari.
-🔒 Hardware Security Enthusiast | Cryptography Researcher | SCA/FI Analyst
+🔒 Hardware Security | Cryptography Researcher | SCA/FI
 
 Welcome to my GitHub! I’m a passionate researcher and engineer focused on the fascinating world of hardware security and cryptography. My expertise and interests include:
 
