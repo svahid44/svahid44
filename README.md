@@ -1,14 +1,26 @@
-👋 Hi there! I'm Vahid Soleimani Hesari.
-🔒 Hardware Security | Cryptography Researcher | SCA/FI
+# Vahid Soleimani Hesari
 
-Welcome to my GitHub! I’m a passionate researcher and engineer focused on the fascinating world of hardware security and cryptography. My expertise and interests include:
+Hardware Security & Cryptography Researcher  
+Implementation-level security | Fault Injection | Side-Channel Analysis | Secure Embedded Systems
 
-🛡️ Secure Hardware Design: Developing and analyzing secure systems to counter advanced hardware-based attacks.
-⚡ Side-Channel and Fault Injection Attacks: Exploring vulnerabilities in hardware implementations and designing effective countermeasures.
-🔑 Cryptography Implementation: Securely implementing cryptographic algorithms in hardware and software.
-With a strong foundation in hardware attack methodologies, I aim to uncover potential vulnerabilities in cryptographic systems and work towards making hardware more resilient. I'm also a firm believer in knowledge sharing and contribute to open-source projects to help grow the security community.
+I work on the security evaluation of cryptographic implementations, with a focus on how algorithms behave under realistic physical attack conditions.
 
-🌟 Let’s collaborate!
-If you're interested in hardware security, cryptographic implementations, or cutting-edge attack and defense techniques, feel free to reach out. Together, we can make technology safer and more reliable.
----> Linkedin: linkedin.com/in/vahid-soleimani-hesari
----> Email: vahidsoleimani.tc@gmail.com
+My main interests include fault injection attacks, side-channel analysis, secure embedded implementations, FPGA-based evaluation, and applied cryptography.
+
+## Research Focus
+
+- Fault injection attacks on cryptographic implementations
+- Side-channel leakage analysis
+- Secure embedded systems
+- FPGA and microcontroller-based security evaluation
+- Implementation-level cryptographic security
+- IoT and hardware security
+
+## Current Work
+
+I am currently working on hardware security and secure embedded systems, including practical evaluation of cryptographic implementations under fault and leakage-based attack models.
+
+## Links
+- E-mail: vahidsoleimani.tc@gmail.com
+- LinkedIn: https://www.linkedin.com/in/vahid-soleimani-hesari
+- ORCID: https://orcid.org/0009-0002-7821-3607
